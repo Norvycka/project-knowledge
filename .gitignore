@@ -1,0 +1,3 @@
+# compiled Rust output: rebuild it with rustc, don't store it
+*.exe
+*.pdb
