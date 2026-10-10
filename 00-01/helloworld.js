@@ -1,2 +1,2 @@
-console.log("Hello, World!");
+console.log("Greetings");
 console.log(process.version);
