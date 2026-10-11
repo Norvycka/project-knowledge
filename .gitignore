@@ -1,4 +1,6 @@
 # compiled Rust output: rebuild it with rustc, don't store it
 *.exe
 *.pdb
-*.env
+# API keys live here, never commit them
+.env
+.env.*
