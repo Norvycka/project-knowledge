@@ -1,0 +1,9 @@
+[project]
+name = "ai-course"
+version = "0.1.0"
+required-python = ">=3.12"           
+dependencies = [
+    "numpy>=2.0",
+    "torch>=2.6",                    
+    "anthropic>=0.40",                     
+]
