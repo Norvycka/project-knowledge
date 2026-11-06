@@ -1,4 +1,5 @@
 # compiled Rust output: rebuild it with rustc, don't store it
+data/
 models/
 *.pt
 *.pth
