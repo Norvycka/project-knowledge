@@ -1,4 +1,8 @@
 # compiled Rust output: rebuild it with rustc, don't store it
+models/
+*.pt
+*.pth
+*.safetensors
 *.exe
 *.pdb
 # API keys live here, never commit them
