@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\vyten\OneDrive\Desktop\stuff\ai-course\my-work\00-10\train.py", line 3, in <module>
+    raise ValueError("out of memory")
+ValueError: out of memory
