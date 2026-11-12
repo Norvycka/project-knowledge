@@ -1,4 +1,4 @@
-import numpy as np
+qimport numpy as np
 
 x = np.array([1, 2, 3, 4, 5], dtype=float)
 y = np.array([3, 5, 7, 9, 11], dtype=float)
